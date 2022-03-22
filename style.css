@@ -1,3 +1,22 @@
+
+
 .nav-bg{
     background-color: rgba(255, 200, 127, 0.541);
+}
+#titulo{
+    background-color: rgba(255, 200, 127, 0.541);
+    text-align: center;
+     align-items: center;
+}
+#for{
+    background-color: rgba(255, 200, 127, 0.541);
+    text-align: center;
+     align-items: center;
+}
+
+#rodape{
+    background-color: rgba(239, 252, 120, 0.973);
+    text-align: center;
+     align-items: center;
+     
 }
